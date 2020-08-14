@@ -1,5 +1,8 @@
-### Hi there 👋
+# Y'ello ✌🏽,
 
+I'm a superfan of the little green bot. Conversely, I ocassionally find myself stirring at the cloud too. I'm currently exploring ways to better _bake_ useful things with Android and Google Cloud. Maybe I might peep at ML in the future too.
+
+In my spare time, I like help out with the dev community, dive into music or enjoy some good jokes on [twitter](https://twitter.com/samueletsiakoh).
 <!--
 **baiden/baiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
