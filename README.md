@@ -2,7 +2,7 @@
 
 I'm a superfan of the little green bot. Conversely, I occasionally find myself staring at the cloud too. Currently exploring better ways to _bake_ useful things with **Android**.
 
-In my spare time, I like help out with the dev community, dive into music or enjoy some good jokes on [twitter](https://twitter.com/samueletsiakoh).
+In my spare time, I like to help out with the dev community, dive into music or enjoy some good jokes on [twitter](https://twitter.com/samueletsiakoh).
 
 📫 How to reach me:
   [Email](mailto:esgrey094@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samueletsiakoh) | [Twitter](https://twitter.com/samueletsiakoh)
